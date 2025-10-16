@@ -13,9 +13,6 @@ public class QuadrupedSpider {
   public static int getNeckServo () {
         return neck;
   } // метод getNeckServo возвращает значение положения сервопривода шеи робота при запуске
-
-
-
 }
 
 
